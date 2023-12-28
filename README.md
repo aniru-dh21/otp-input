@@ -1,6 +1,6 @@
 # OTP Input in Vue 3
 
-This template should help get you started developing with Vue 3 in Vite.
+OTP inputs are one of the most fun components you can use in your app. They make the dry process of filling in yet another form a little more engaging.
 
 ## Recommended IDE Setup
 
