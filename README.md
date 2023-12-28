@@ -4,11 +4,9 @@ OTP inputs are one of the most fun components you can use in your app. They make
 
 ## What's an OTP Input ?
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+An OTP input is a form component form component for strings. Each character in the string is typed into a separate box, and the component switches between boxes as you type (as opposed to you needing to click into each box).
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+It's called an OTP input because they're usually used to let users type in an OTP (One Time Password) that they've received via some other channel, usually email or SMS.
 
 ## Project Setup
 
