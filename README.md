@@ -2,7 +2,7 @@
 
 OTP inputs are one of the most fun components you can use in your app. They make the dry process of filling in yet another form a little more engaging.
 
-## Recommended IDE Setup
+## What's an OTP Input ?
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
